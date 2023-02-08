@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: lightgray;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+}
+
+#education {
+  background-color: lightblue;
+}
+
+#interests {
+  background-color: lightgreen;
+}
+This code creates a simple portfolio page with two sections: one for education and one for interests. The header at the top of the page contains the title of the portfolio, while each section is differentiated by background color and has a heading and a list of items.
+
+
+
+
